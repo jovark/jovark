@@ -1,9 +1,7 @@
 - Currently working on [my terminal website](https://github.com/jovark/term)
 - Learning webdev and vim/nvim
 
----
-
-# Tools
+## Tools
 
 <img align="left" alt="angular" width="30" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
 <img align="left" alt="react" width="30" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
