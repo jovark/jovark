@@ -1,4 +1,4 @@
-- Currently working on [taipo](https://github.com/jovark/taipo)
+- Currently working on [my terminal website](https://github.com/jovark/term)
 - Learning webdev and vim/nvim
 
 ---
