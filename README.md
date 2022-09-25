@@ -1,5 +1,5 @@
-- Currently working on ...
-- Learning webdev and vim
+- Currently working on [taipo](https://github.com/jovark/taipo)
+- Learning webdev and vim/nvim
 
 ---
 
