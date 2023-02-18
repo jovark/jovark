@@ -1,4 +1,3 @@
-- Currently working on [my terminal website](https://github.com/jovark/term)
 - Learning webdev and vim/nvim
 
 ## Tools
